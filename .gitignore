@@ -1,3 +1,7 @@
+*.json
+!sample_data.json
+!package.json
+
 # Logs
 logs
 *.log
