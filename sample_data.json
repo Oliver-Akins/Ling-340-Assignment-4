@@ -1,0 +1,31 @@
+[
+	{"Lexeme" : ["ospital"],
+	"IPA" : ["ospital"],
+	"IPA2" : ["ospital"],
+	"Spanish" : ["hospital"],
+	"Quichua" : ["hospital"],
+	"English" : ["hospital"],
+	"Root" : ["NA"],
+	"Origin" : ["ML"],
+	"Dict" : ["SPG"]},
+
+	{"Lexeme" : ["Gualabi"],
+	"IPA" : ["walabi"],
+	"IPA2" : ["walabi"],
+	"Spanish" : ["Gualabi"],
+	"Quichua" : ["Gualabi"],
+	"English" : ["Gualabi"],
+	"Root" : ["NA"],
+	"Origin" : ["ML"],
+	"Dict" : ["SPG"]},
+
+	{"Lexeme" : ["2"],
+	"IPA" : ["2"],
+	"IPA2" : ["2"],
+	"Spanish" : ["dos"],
+	"Quichua" : ["ishcay"],
+	"English" : ["two"],
+	"Root" : ["NA"],
+	"Origin" : ["Q"],
+	"Dict" : ["SPG"]}
+]
